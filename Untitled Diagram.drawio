@@ -114,7 +114,7 @@
           <mxGeometry x="-350" y="270" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="LLJHBpCQEx9uSSTHhzXi-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;IdentifyVerification&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: String&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
-          <mxGeometry x="-340" y="280" width="190" height="140" as="geometry" />
+          <mxGeometry x="-400" y="70" width="190" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
